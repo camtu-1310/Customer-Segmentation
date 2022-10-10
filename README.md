@@ -52,7 +52,8 @@ The dataset for this project is provided by Dr. Omar Romero-Hernandez.
 
 ### Solution Reference
 **[[1]](https://thecleverprogrammer.com/2021/02/08/customer-personality-analysis-with-python/)** Customer Personality Analysis with Python
-**[[2]](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/data) ** Customer Segmentation: Clustering 🛍️🛒🛒
-**[[3]](https://www.kaggle.com/code/sonalisingh1411/customer-personality-analysis-segmentation/notebook)**
-😄🥺😡Customer-Personality Analysis + Segmentation
+
+**[[2]](https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering/data)** Customer Segmentation: Clustering 🛍️🛒🛒
+
+**[[3]](https://www.kaggle.com/code/sonalisingh1411/customer-personality-analysis-segmentation/notebook)** 😄🥺😡Customer-Personality Analysis + Segmentation
 Inspiration
